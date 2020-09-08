@@ -26,7 +26,7 @@ function readLine() {
 function greeting(parameterVariable) {
     // This line prints 'Hello, World!' to the console:
     console.log('Hello, World!');
-    console.log("Welcome to 10 Days of JavaScript!");
+    console.log(parameterVariable);
 
 }
 
