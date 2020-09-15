@@ -24,3 +24,18 @@
 | Higher Than 75 Marks               	| [Question](https://www.hackerrank.com/challenges/more-than-75-marks) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/1-Basic%20Select/17_Higher%20Than%2075%20Marks.sql) 	|
 | Employee Names                    	| [Question](https://www.hackerrank.com/challenges/name-of-employees) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/1-Basic%20Select/18_Emoloyee%20Names.sql) 	|
 | Employee Salaries                  	| [Question](https://www.hackerrank.com/challenges/salary-of-employees) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/1-Basic%20Select/19_Employee%20Salaries.sql) 	|
+
+
+
+
+| Advance Select                    	|    Q-Links   	|   A-Links   	|
+|--------------------------------------	|:--------:	    |:-------:	    |
+| Type of Triangle                    	| [Question](https://www.hackerrank.com/challenges/what-type-of-triangle) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/2-Advance%20Select/00_Type%20of%20Triangle.sql) 	|
+| The PADS                          	| [Question](https://www.hackerrank.com/challenges/the-pads) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/2-Advance%20Select/01_The%20PADS.sql) 	|
+| Occupations                        	| [Question](https://www.hackerrank.com/challenges/occupations) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/2-Advance%20Select/02_Occupations.sql) 	|
+| Binary Tree Nodes                    	| [Question](https://www.hackerrank.com/challenges/binary-search-tree-1) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/2-Advance%20Select/03_Binary%20Tree%20Nodes.sql) 	|
+| New Companies                      	| [Question](https://www.hackerrank.com/challenges/the-company) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/2-Advance%20Select/04_New%20Companies.sql) 	|
+
+
+
+
