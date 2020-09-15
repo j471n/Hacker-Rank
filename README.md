@@ -171,4 +171,26 @@ In this Repository, You'll get solutions of HackerRank Problems, I updates this 
 
 
 
+| Aggregation                   	                    |    Q-Links   	|   A-Links   	|
+|-----------------------------------------------------  |:--------:	    |:-------:	    |
+| Revising Aggregations - The Count Function          	| [Question](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/3-Aggregation/00_Revising%20Aggregations%20-%20The%20Count%20Function.sql) 	|
+| Revising Aggregations - The Sum Function              | [Question](https://www.hackerrank.com/challenges/revising-aggregations-sum) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/3-Aggregation/01_Revising%20Aggregations%20-%20The%20Sum%20Function.sql) 	|
+| Revising Aggregations - Averages 	                    | [Question](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/3-Aggregation/02_Revising%20Aggregations%20-%20Averages.sql) 	|
+| Average Population                    	            | [Question](https://www.hackerrank.com/challenges/average-population) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/3-Aggregation/03_Average%20Population.sql) 	|
+| Japan Population         	                            | [Question](https://www.hackerrank.com/challenges/japan-population) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/3-Aggregation/04_Japan%20Population.sql) 	|
+| Population Density Difference         	            | [Question](https://www.hackerrank.com/challenges/population-density-difference) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/3-Aggregation/05_Population%20Density%20Difference.sql) 	|
+| The Blunder                       	                | [Question](https://www.hackerrank.com/challenges/the-blunder) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/3-Aggregation/06_The%20Blunder.sql) 	|
+| Top Earners                                           | [Question](https://www.hackerrank.com/challenges/earnings-of-employees) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/3-Aggregation/07_Top%20Earners.sql) 	|
+| Weather Observation Station 2                    	    | [Question](https://www.hackerrank.com/challenges/weather-observation-station-2) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/3-Aggregation/08_Weather%20Observation%20Station%202.sql) 	|
+| Weather Observation Station 13                  	    | [Question](https://www.hackerrank.com/challenges/weather-observation-station-13) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/3-Aggregation/09_Weather%20Observation%20Station%2013.sql) 	|
+| Weather Observation Station 14                   	    | [Question](https://www.hackerrank.com/challenges/weather-observation-station-14) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/3-Aggregation/10_Weather%20Observation%20Station%2014.sql) 	|
+| Weather Observation Station 15                   	    | [Question](https://www.hackerrank.com/challenges/weather-observation-station-15) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/3-Aggregation/11_Weather%20Observation%20Station%2015.sql) 	|
+| Weather Observation Station 16                   	    | [Question](https://www.hackerrank.com/challenges/weather-observation-station-16) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/3-Aggregation/12_Weather%20Observation%20Station%2016.sql) 	|
+| Weather Observation Station 17                   	    | [Question](https://www.hackerrank.com/challenges/weather-observation-station-17) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/3-Aggregation/13_Weather%20Observation%20Station%2017.sql) 	|
+| Weather Observation Station 18                   	    | [Question](https://www.hackerrank.com/challenges/weather-observation-station-18) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/3-Aggregation/14_Weather%20Observation%20Station%2018.sql) 	|
+| Weather Observation Station 19                   	    | [Question](https://www.hackerrank.com/challenges/weather-observation-station-19) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/3-Aggregation/15_Weather%20Observation%20Station%2019.sql) 	|
+| Weather Observation Station 20                   	    | [Question](https://www.hackerrank.com/challenges/weather-observation-station-20) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/3-Aggregation/16_Weather%20Observation%20Station%2020.sql) 	|
+
+
+
 
