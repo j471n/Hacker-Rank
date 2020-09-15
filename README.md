@@ -160,4 +160,15 @@ In this Repository, You'll get solutions of HackerRank Problems, I updates this 
 | Employee Salaries                  	| [Question](https://www.hackerrank.com/challenges/salary-of-employees) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/1-Basic%20Select/19_Employee%20Salaries.sql) 	|
 
 
+| Advance Select                    	|    Q-Links   	|   A-Links   	|
+|--------------------------------------	|:--------:	    |:-------:	    |
+| Type of Triangle                    	| [Question](https://www.hackerrank.com/challenges/what-type-of-triangle) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/2-Advance%20Select/00_Type%20of%20Triangle.sql) 	|
+| The PADS                          	| [Question](https://www.hackerrank.com/challenges/the-pads) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/2-Advance%20Select/01_The%20PADS.sql) 	|
+| Occupations                        	| [Question](https://www.hackerrank.com/challenges/occupations) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/2-Advance%20Select/02_Occupations.sql) 	|
+| Binary Tree Nodes                    	| [Question](https://www.hackerrank.com/challenges/binary-search-tree-1) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/2-Advance%20Select/03_Binary%20Tree%20Nodes.sql) 	|
+| New Companies                      	| [Question](https://www.hackerrank.com/challenges/the-company) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/2-Advance%20Select/04_New%20Companies.sql) 	|
+
+
+
+
 
