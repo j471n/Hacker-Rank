@@ -3,7 +3,9 @@ In this Repository, You'll get solutions of HackerRank Problems, I updates this 
 
 ## C - [HackerRank] 
 
-| Introduction                        |  Q-Links 	    | A-Links 	    |
+### Introduction
+
+| Name                                |  Q-Links 	    | A-Links 	    |
 |-----------------------------------	|:--------:	    |:-------:	    |
 | Hello World                       	| [Question](https://www.hackerrank.com/challenges/hello-world-c/problem)	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/C/1-Introduction/0-Hello-world-in-C.c)	|
 | Playing With Characters           	| [Question](https://www.hackerrank.com/challenges/playing-with-characters/problem) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/C/1-Introduction/1-Playing-With-Characters.c)	|
@@ -12,9 +14,9 @@ In this Repository, You'll get solutions of HackerRank Problems, I updates this 
 | Pointers in C                     	| [Question](https://www.hackerrank.com/challenges/pointer-in-c/problem) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/C/1-Introduction/4-Pointers-in-C.c)	|
 
 
+### Conditionals and Loops
 
-
-| Conditionals and Loops              	|    Q-Links   	|   A-Links   	|
+| Name                                	|    Q-Links   	|   A-Links   	|
 |--------------------------------------	|:--------:	    |:-------:	    |
 | Conditional Statements in C          	| [Question](https://www.hackerrank.com/challenges/conditional-statements-in-c/problem) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/C/2-Conditionals%20and%20Loops/0-Conditional-Statements-in-C.c) 	|
 | For Loop in C                        	| [Question](https://www.hackerrank.com/challenges/for-loop-in-c/problem) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/C/2-Conditionals%20and%20Loops/1-For-Loop-in-C.c) 	|
@@ -23,9 +25,9 @@ In this Repository, You'll get solutions of HackerRank Problems, I updates this 
 | Printing Pattern using Loops         	| [Question](https://www.hackerrank.com/challenges/printing-pattern-2/problem) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/C/2-Conditionals%20and%20Loops/4-Printing-Patters-using-loops.c) 	|
 
 
+### Arrays and Strings
 
-
-| Arrays and Strings                   	|    Q-Links   	|   A-Links   	|
+| Name                                	|    Q-Links   	|   A-Links   	|
 |--------------------------------------	|:--------:	    |:-------:	    |
 | 1D Arrays in C                      	| [Question](https://www.hackerrank.com/challenges/1d-arrays-in-c/problem) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/C/3-Arrays%20and%20Strings/0-1D-Array-in-C.c) 	|
 | Array Reversal                      	| [Question](https://www.hackerrank.com/challenges/reverse-array-c/problem) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/C/3-Arrays%20and%20Strings/1-Array-reversal.c) 	|
@@ -34,9 +36,9 @@ In this Repository, You'll get solutions of HackerRank Problems, I updates this 
 | Dynacmic Array in C               	| [Question](https://www.hackerrank.com/challenges/dynamic-array-in-c/problem) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/C/3-Arrays%20and%20Strings/4-Dynamic-Array-in-C.c) 	|
 
 
+### Functions
 
-
-| Functions                            	|    Q-Links   	|   A-Links   	|
+| Name                                	|    Q-Links   	|   A-Links   	|
 |--------------------------------------	|:--------:	    |:-------:	    |
 | Calculate the Nth term               	| [Question](https://www.hackerrank.com/challenges/recursion-in-c/problem) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/C/4-Functions/0-Calculate-the-Nth-Number.c) 	|
 | Students Marks Sum                  	| [Question](https://www.hackerrank.com/challenges/students-marks-sum/problem) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/C/4-Functions/1-Students-Marks-Sum.c) 	|
@@ -46,9 +48,9 @@ In this Repository, You'll get solutions of HackerRank Problems, I updates this 
 | Querying the Document         	    | [Question](https://www.hackerrank.com/challenges/querying-the-document/problem) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/C/4-Functions/5-Querying-the-Document.c) 	|
 
 
+### Structs and Enums
 
-
-| Structs and Enums                   	|    Q-Links   	|   A-Links   	|
+| Name                                 	|    Q-Links   	|   A-Links   	|
 |--------------------------------------	|:--------:	    |:-------:	    |
 | Structuring-the-Document             	| [Question](https://www.hackerrank.com/challenges/structuring-the-document) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/C/5-Structs%20and%20Enums/0-Structuring-the-Document.c) 	|
 | Small-Triangles,-Large-Triangles      | [Question](https://www.hackerrank.com/challenges/small-triangles-large-triangles) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/C/5-Structs%20and%20Enums/1-Small-Triangles%2C-Large-Triangles.c) 	|
@@ -134,9 +136,9 @@ In this Repository, You'll get solutions of HackerRank Problems, I updates this 
 
 ## SQL - [HackerRank]
 
+### Basic Select
 
-
-| Basic Select                         	|    Q-Links   	|   A-Links   	|
+| Name                                 	|    Q-Links   	|   A-Links   	|
 |--------------------------------------	|:--------:	    |:-------:	    |
 | Revising the Select Query I          	| [Question](https://www.hackerrank.com/challenges/revising-the-select-query) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/1-Basic%20Select/00_Revising%20the%20Select%20Query%20I.sql) 	|
 | Revising the Select Query II       	| [Question](https://www.hackerrank.com/challenges/revising-the-select-query-2) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/1-Basic%20Select/01_Revising%20the%20Select%20Query%20II.sql) 	|
@@ -160,7 +162,9 @@ In this Repository, You'll get solutions of HackerRank Problems, I updates this 
 | Employee Salaries                  	| [Question](https://www.hackerrank.com/challenges/salary-of-employees) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/1-Basic%20Select/19_Employee%20Salaries.sql) 	|
 
 
-| Advance Select                    	|    Q-Links   	|   A-Links   	|
+### Advance Select
+
+| Name                                	|    Q-Links   	|   A-Links   	|
 |--------------------------------------	|:--------:	    |:-------:	    |
 | Type of Triangle                    	| [Question](https://www.hackerrank.com/challenges/what-type-of-triangle) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/2-Advance%20Select/00_Type%20of%20Triangle.sql) 	|
 | The PADS                          	| [Question](https://www.hackerrank.com/challenges/the-pads) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/2-Advance%20Select/01_The%20PADS.sql) 	|
@@ -169,9 +173,9 @@ In this Repository, You'll get solutions of HackerRank Problems, I updates this 
 | New Companies                      	| [Question](https://www.hackerrank.com/challenges/the-company) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/2-Advance%20Select/04_New%20Companies.sql) 	|
 
 
+### Aggregation
 
-
-| Aggregation                   	                    |    Q-Links   	|   A-Links   	|
+| Name                             	                    |    Q-Links   	|   A-Links   	|
 |-----------------------------------------------------  |:--------:	    |:-------:	    |
 | Revising Aggregations - The Count Function          	| [Question](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/3-Aggregation/00_Revising%20Aggregations%20-%20The%20Count%20Function.sql) 	|
 | Revising Aggregations - The Sum Function              | [Question](https://www.hackerrank.com/challenges/revising-aggregations-sum) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/3-Aggregation/01_Revising%20Aggregations%20-%20The%20Sum%20Function.sql) 	|
@@ -190,6 +194,48 @@ In this Repository, You'll get solutions of HackerRank Problems, I updates this 
 | Weather Observation Station 18                   	    | [Question](https://www.hackerrank.com/challenges/weather-observation-station-18) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/3-Aggregation/14_Weather%20Observation%20Station%2018.sql) 	|
 | Weather Observation Station 19                   	    | [Question](https://www.hackerrank.com/challenges/weather-observation-station-19) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/3-Aggregation/15_Weather%20Observation%20Station%2019.sql) 	|
 | Weather Observation Station 20                   	    | [Question](https://www.hackerrank.com/challenges/weather-observation-station-20) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/3-Aggregation/16_Weather%20Observation%20Station%2020.sql) 	|
+
+
+### Basic Join
+
+| Name                                 	|    Q-Links   	|   A-Links   	|
+|--------------------------------------	|:--------:	    |:-------:	    |
+| Asian Population                    	| [Question](https://www.hackerrank.com/challenges/asian-population) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/4-Basic%20Join/00_Asian%20Population.sql) 	|
+| African Cities                        | [Question](https://www.hackerrank.com/challenges/african-cities) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/4-Basic%20Join/01_African%20Cities.sql) 	|
+| Average Population of Each Continent 	| [Question](https://www.hackerrank.com/challenges/average-population-of-each-continent) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/4-Basic%20Join/02_Average%20Population%20of%20Each%20Continent.sql) 	|
+| The Report                          	| [Question](https://www.hackerrank.com/challenges/the-report) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/4-Basic%20Join/03_The%20Report.sql) 	|
+| Top Competitors                     	| [Question](https://www.hackerrank.com/challenges/full-score) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/4-Basic%20Join/04_Top%20Competitors.sql) 	|
+| Ollivander's Inventory              	| [Question](https://www.hackerrank.com/challenges/harry-potter-and-wands) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/4-Basic%20Join/05_Ollivander's%20Inventory.sql) 	|
+| Challenges                        	| [Question](https://www.hackerrank.com/challenges/challenges) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/4-Basic%20Join/06_Challenges.sql) 	|
+| Contest Leaderboard                   | [Question](https://www.hackerrank.com/challenges/contest-leaderboard) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/4-Basic%20Join/07_Contest%20Leaderboard.sql) 	|
+
+
+### Advance Join
+
+
+| Name                                 	|    Q-Links   	|   A-Links   	|
+|--------------------------------------	|:--------:	    |:-------:	    |
+| SQL Project Planning                	| [Question](https://www.hackerrank.com/challenges/sql-projects) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/5-Advance%20Join/00_SQL%20Project%20Planning.sql) 	|
+| Placements                        	| [Question](https://www.hackerrank.com/challenges/placements) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/5-Advance%20Join/01_Placements.sql) 	|
+| Symmetric Pairs                    	| [Question](https://www.hackerrank.com/challenges/symmetric-pairs) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/5-Advance%20Join/02_Symmetric%20Pairs.sql) 	|
+| Interviews                          	| [Question](https://www.hackerrank.com/challenges/interviews) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/5-Advance%20Join/03_Interviews.sql) 	|
+| 15 Days of Learning SQL            	| [Question](https://www.hackerrank.com/challenges/15-days-of-learning-sql) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/5-Advance%20Join/04_15%20Days%20of%20Learning%20SQL.sql) 	|
+
+
+### Alternative Queries
+
+
+
+| Name                                 	|    Q-Links   	|   A-Links   	|
+|--------------------------------------	|:--------:	    |:-------:	    |
+| Draw The Triangle 1                 	| [Question](https://www.hackerrank.com/challenges/draw-the-triangle-1) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/6-Alternative%20Queries/00_Draw%20The%20Triangle%201.sql) 	|
+| Draw The Triangle 2                 	| [Question](https://www.hackerrank.com/challenges/draw-the-triangle-2) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/6-Alternative%20Queries/01_Draw%20The%20Triangle%201.sql) 	|
+| Print Prime Numbers                  	| [Question](https://www.hackerrank.com/challenges/print-prime-numbers) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/6-Alternative%20Queries/02_Print%20Prime%20Numbers.sql) 	|
+
+
+
+
+
 
 
 
