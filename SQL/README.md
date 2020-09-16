@@ -1,8 +1,8 @@
 # SQL - [HackerRank]
 
+### Basic Select
 
-
-| Basic Select                         	|    Q-Links   	|   A-Links   	|
+| Name                         	|    Q-Links   	|   A-Links   	|
 |--------------------------------------	|:--------:	    |:-------:	    |
 | Revising the Select Query I          	| [Question](https://www.hackerrank.com/challenges/revising-the-select-query) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/1-Basic%20Select/00_Revising%20the%20Select%20Query%20I.sql) 	|
 | Revising the Select Query II       	| [Question](https://www.hackerrank.com/challenges/revising-the-select-query-2) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/1-Basic%20Select/01_Revising%20the%20Select%20Query%20II.sql) 	|
@@ -26,9 +26,9 @@
 | Employee Salaries                  	| [Question](https://www.hackerrank.com/challenges/salary-of-employees) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/1-Basic%20Select/19_Employee%20Salaries.sql) 	|
 
 
+### Advance Select
 
-
-| Advance Select                    	|    Q-Links   	|   A-Links   	|
+| Name                                	|    Q-Links   	|   A-Links   	|
 |--------------------------------------	|:--------:	    |:-------:	    |
 | Type of Triangle                    	| [Question](https://www.hackerrank.com/challenges/what-type-of-triangle) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/2-Advance%20Select/00_Type%20of%20Triangle.sql) 	|
 | The PADS                          	| [Question](https://www.hackerrank.com/challenges/the-pads) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/2-Advance%20Select/01_The%20PADS.sql) 	|
@@ -37,9 +37,9 @@
 | New Companies                      	| [Question](https://www.hackerrank.com/challenges/the-company) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/2-Advance%20Select/04_New%20Companies.sql) 	|
 
 
+### Aggregation
 
-
-| Aggregation                   	                    |    Q-Links   	|   A-Links   	|
+| Name                  	                              |    Q-Links   	|   A-Links   	|
 |-----------------------------------------------------  |:--------:	    |:-------:	    |
 | Revising Aggregations - The Count Function          	| [Question](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/3-Aggregation/00_Revising%20Aggregations%20-%20The%20Count%20Function.sql) 	|
 | Revising Aggregations - The Sum Function              | [Question](https://www.hackerrank.com/challenges/revising-aggregations-sum) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/3-Aggregation/01_Revising%20Aggregations%20-%20The%20Sum%20Function.sql) 	|
@@ -58,6 +58,48 @@
 | Weather Observation Station 18                   	    | [Question](https://www.hackerrank.com/challenges/weather-observation-station-18) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/3-Aggregation/14_Weather%20Observation%20Station%2018.sql) 	|
 | Weather Observation Station 19                   	    | [Question](https://www.hackerrank.com/challenges/weather-observation-station-19) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/3-Aggregation/15_Weather%20Observation%20Station%2019.sql) 	|
 | Weather Observation Station 20                   	    | [Question](https://www.hackerrank.com/challenges/weather-observation-station-20) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/3-Aggregation/16_Weather%20Observation%20Station%2020.sql) 	|
+
+
+### Basic Join
+
+| Name                                 	|    Q-Links   	|   A-Links   	|
+|--------------------------------------	|:--------:	    |:-------:	    |
+| Asian Population                    	| [Question](https://www.hackerrank.com/challenges/asian-population) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/4-Basic%20Join/00_Asian%20Population.sql) 	|
+| African Cities                        | [Question](https://www.hackerrank.com/challenges/african-cities) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/4-Basic%20Join/01_African%20Cities.sql) 	|
+| Average Population of Each Continent 	| [Question](https://www.hackerrank.com/challenges/average-population-of-each-continent) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/4-Basic%20Join/02_Average%20Population%20of%20Each%20Continent.sql) 	|
+| The Report                          	| [Question](https://www.hackerrank.com/challenges/the-report) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/4-Basic%20Join/03_The%20Report.sql) 	|
+| Top Competitors                     	| [Question](https://www.hackerrank.com/challenges/full-score) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/4-Basic%20Join/04_Top%20Competitors.sql) 	|
+| Ollivander's Inventory              	| [Question](https://www.hackerrank.com/challenges/harry-potter-and-wands) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/4-Basic%20Join/05_Ollivander's%20Inventory.sql) 	|
+| Challenges                        	| [Question](https://www.hackerrank.com/challenges/challenges) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/4-Basic%20Join/06_Challenges.sql) 	|
+| Contest Leaderboard                   | [Question](https://www.hackerrank.com/challenges/contest-leaderboard) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/4-Basic%20Join/07_Contest%20Leaderboard.sql) 	|
+
+
+### Advance Join
+
+
+| Name                                 	|    Q-Links   	|   A-Links   	|
+|--------------------------------------	|:--------:	    |:-------:	    |
+| SQL Project Planning                	| [Question](https://www.hackerrank.com/challenges/sql-projects) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/5-Advance%20Join/00_SQL%20Project%20Planning.sql) 	|
+| Placements                        	| [Question](https://www.hackerrank.com/challenges/placements) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/5-Advance%20Join/01_Placements.sql) 	|
+| Symmetric Pairs                    	| [Question](https://www.hackerrank.com/challenges/symmetric-pairs) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/5-Advance%20Join/02_Symmetric%20Pairs.sql) 	|
+| Interviews                          	| [Question](https://www.hackerrank.com/challenges/interviews) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/5-Advance%20Join/03_Interviews.sql) 	|
+| 15 Days of Learning SQL            	| [Question](https://www.hackerrank.com/challenges/15-days-of-learning-sql) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/5-Advance%20Join/04_15%20Days%20of%20Learning%20SQL.sql) 	|
+
+
+### Alternative Queries
+
+
+
+| Name                                 	|    Q-Links   	|   A-Links   	|
+|--------------------------------------	|:--------:	    |:-------:	    |
+| Draw The Triangle 1                 	| [Question](https://www.hackerrank.com/challenges/draw-the-triangle-1) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/6-Alternative%20Queries/00_Draw%20The%20Triangle%201.sql) 	|
+| Draw The Triangle 2                 	| [Question](https://www.hackerrank.com/challenges/draw-the-triangle-2) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/6-Alternative%20Queries/01_Draw%20The%20Triangle%201.sql) 	|
+| Print Prime Numbers                  	| [Question](https://www.hackerrank.com/challenges/print-prime-numbers) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/SQL/6-Alternative%20Queries/02_Print%20Prime%20Numbers.sql) 	|
+
+
+
+
+
 
 
 
