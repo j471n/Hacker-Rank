@@ -139,6 +139,58 @@
 | Day 9     |    Binary Calculator                  | [Question](https://www.hackerrank.com/challenges/js10-binary-calculator) 	|  [Answer](https://github.com/j471n/Hacker-Rank/tree/master/10%20Days%20of%20JavaScript/Day-9/Binary%20Calculator) 	|
 
 
+### Collections
+
+| Name                                 	|    Q-Links   	|   A-Links   	|
+|--------------------------------------	|:--------:	    |:-------:	    |
+| collections.Counter()               	| [Question](https://www.hackerrank.com/challenges/collections-counter) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/Python/Collections/01_collections%20Counter().py) 	|
+| DefaultDict Tutorial                	| [Question](https://www.hackerrank.com/challenges/defaultdict-tutorial) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/Python/Collections/02_DefaultDict%20Tutorial.py) 	|
+| Collections.namedtuple()             	| [Question](https://www.hackerrank.com/challenges/py-collections-namedtuple) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/Python/Collections/03_Collections.namedtuple().py) 	|
+| Collections.OrderedDict()         	| [Question](https://www.hackerrank.com/challenges/py-collections-ordereddict) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/Python/Collections/04_Collections_OrderedDict().py) 	|
+| Word Order                        	| [Question](https://www.hackerrank.com/challenges/word-order) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/Python/Collections/05_Word%20Order.py) 	|
+| Collections.deque()          	        | [Question](https://www.hackerrank.com/challenges/py-collections-deque) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/Python/Collections/06_Collections%20deque().py) 	|
+| Company Logo                        	| [Question](https://www.hackerrank.com/challenges/most-commons) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/Python/Collections/07_Company%20Logo.py) 	|
+| Piling Up!                          	| [Question](https://www.hackerrank.com/challenges/piling-up) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/Python/Collections/08_Piling%20Up!.py) 	|
+
+
+### Date and Time
+
+| Name                                 	|    Q-Links   	|   A-Links   	|
+|--------------------------------------	|:--------:	    |:-------:	    |
+| Calendar Module                     	| [Question](https://www.hackerrank.com/challenges/calendar-module) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/Python/Date%20and%20Time/Calendar%20Module.py) 	|
+| Time Delta                          	| [Question](https://www.hackerrank.com/challenges/python-time-delta) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/Python/Date%20and%20Time/Time%20Delta.py) 	|
+
+
+### Errors and Exceptions
+
+| Name                        	 |    Q-Links   	|   A-Links   	|
+|-----------------------------   |:--------:	    |:-------:	    |
+| Exceptions                     | [Question](https://www.hackerrank.com/challenges/exceptions) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/Python/Errors%20and%20Exceptions/Exceptions.py) 	|
+| Incorrect Regex                | [Question](https://www.hackerrank.com/challenges/incorrect-regex) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/Python/Errors%20and%20Exceptions/Incorrect%20Regex.py) 	|
+
+
+### Classes
+
+| Name                                 	|    Q-Links   	|   A-Links   	|
+|--------------------------------------	|:--------:	    |:-------:	    |
+| Classes: Dealing with Complex Numbers | [Question](https://www.hackerrank.com/challenges/class-1-dealing-with-complex-numbers) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/Python/Classes/01_Classes:%20Dealing%20with%20Complex%20Numbers.py) 	|
+| Class 2 - Find the Torsional Angle    | [Question](https://www.hackerrank.com/challenges/class-2-find-the-torsional-angle) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/Python/Classes/02_Class%202%20-%20Find%20the%20Torsional%20Angle.py) 	|
+
+
+### Built-Ins
+
+
+| Name                	|    Q-Links   	|   A-Links   	|
+|----------------------	|:--------:	    |:-------:	    |
+| Zipped!              	| [Question](https://www.hackerrank.com/challenges/zipped) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/Python/Built-Ins/01_Zipped!.py) 	|
+| Input()              	| [Question](https://www.hackerrank.com/challenges/input) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/Python/Built-Ins/02_Input().py) 	|
+| Python Evaluation 	| [Question](https://www.hackerrank.com/challenges/python-eval) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/Python/Built-Ins/03_Python%20Evaluation.py) 	|
+| Athlete Sort          | [Question](https://www.hackerrank.com/challenges/python-sort-sort) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/Python/Built-Ins/04_Athlete%20Sort.py) 	|
+| All in All         	| [Question](https://www.hackerrank.com/challenges/any-or-all) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/Python/Built-Ins/05_Any%20or%20All.py) 	|
+| ginortS          	    | [Question](https://www.hackerrank.com/challenges/ginorts) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/Python/Built-Ins/06_ginortS.py) 	|
+
+
+
 
 
 
