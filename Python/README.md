@@ -157,3 +157,37 @@
 | ginortS          	    | [Question](https://www.hackerrank.com/challenges/ginorts) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/Python/Built-Ins/06_ginortS.py) 	|
 
 
+### Python Functionals
+
+| Name                                 	|    Q-Links   	|   A-Links   	|
+|--------------------------------------	|:--------:	    |:-------:	    |
+| Map and Lambda Function             	| [Question](https://www.hackerrank.com/challenges/map-and-lambda-expression) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/Python/Python%20Functionals/01_Map%20and%20Lambda%20Function.py) 	|
+| Validating Email Addresses With a Filter  | [Question](https://www.hackerrank.com/challenges/validate-list-of-email-address-with-filter) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/Python/Python%20Functionals/02_Validating%20Email%20Addresses%20With%20a%20Filter.py) 	|
+| Reduce Function                    	| [Question](https://www.hackerrank.com/challenges/reduce-function) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/Python/Python%20Functionals/03_Reduce%20Function.py) 	|
+
+
+
+### Regex and Parsing
+
+
+| Name                                 	|    Q-Links   	|   A-Links   	|
+|--------------------------------------	|:--------:	    |:-------:	    |
+| Detect Floating Point Number         	| [Question](https://www.hackerrank.com/challenges/introduction-to-regex) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/Python/Regex%20and%20Parsing/01_Detect%20Floating%20Point%20Number.py) 	|
+| Re.split()                        	| [Question](https://www.hackerrank.com/challenges/re-split) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/Python/Regex%20and%20Parsing/02_Re_split().py) 	|
+| Group(), Groups() & Groupdict()      	| [Question](https://www.hackerrank.com/challenges/re-group-groups) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/Python/Regex%20and%20Parsing/03_Group()%2C%20Groups()%20%26%20Groupdict().py) 	|
+| Re.findall() & Re.finditer()         	| [Question](https://www.hackerrank.com/challenges/re-findall-re-finditer) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/Python/Regex%20and%20Parsing/04_Re_findall()%20%26%20Re_finditer().py) 	|
+| Re.start() & Re.end()              	| [Question](https://www.hackerrank.com/challenges/re-start-re-end) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/Python/Regex%20and%20Parsing/05_Re_start()%20%26%20Re_end().py) 	|
+| Regex Substitution                  	| [Question](https://www.hackerrank.com/challenges/re-sub-regex-substitution) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/Python/Regex%20and%20Parsing/06_Regex%20Substitution.py) 	|
+| Validating Roman Numerals            	| [Question](https://www.hackerrank.com/challenges/validate-a-roman-number) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/Python/Regex%20and%20Parsing/07_Validating%20Roman%20Numerals.py) 	|
+| Validating phone numbers             	| [Question](https://www.hackerrank.com/challenges/validating-the-phone-number) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/Python/Regex%20and%20Parsing/08_Validating%20phone%20numbers.py) 	|
+| Validating and Parsing Email Addresses| [Question](https://www.hackerrank.com/challenges/validating-named-email-addresses) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/Python/Regex%20and%20Parsing/09_Validating%20and%20Parsing%20Email%20Addresses.py) 	|
+| Hex Color Code                     	| [Question](https://www.hackerrank.com/challenges/hex-color-code) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/Python/Regex%20and%20Parsing/10_Hex%20Color%20Code.py) 	|
+| HTML Parser - Part 1                	| [Question](https://www.hackerrank.com/challenges/html-parser-part-1) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/Python/Regex%20and%20Parsing/11_HTML%20Parser%20-%20Part%201.py) 	|
+| HTML Parser - Part 2                 	| [Question](https://www.hackerrank.com/challenges/html-parser-part-2) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/Python/Regex%20and%20Parsing/12_HTML%20Parser%20-%20Part%202.py) 	|
+| Detect HTML Tags, Attributes and Attribute Values 	| [Question](https://www.hackerrank.com/challenges/detect-html-tags-attributes-and-attribute-values) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/Python/Regex%20and%20Parsing/13_Detect%20HTML%20Tags%2C%20Attributes%20and%20Attribute%20Values.py) 	|
+| Validating UID                        | [Question](https://www.hackerrank.com/challenges/validating-uid) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/Python/Regex%20and%20Parsing/14-Validating%20UID.py) 	|
+| Validating Credit Card Number     	| [Question](https://www.hackerrank.com/challenges/validating-credit-card-number) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/Python/Regex%20and%20Parsing/15_Validating%20Credit%20Card%20Numbers.py) 	|
+| Validating Postal Codes            	| [Question](https://www.hackerrank.com/challenges/validating-postalcode) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/Python/Regex%20and%20Parsing/16_Validating%20Postal%20Codes.py) 	|
+| Matrix Script                      	| [Question](https://www.hackerrank.com/challenges/matrix-script) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/Python/Regex%20and%20Parsing/17_Matrix%20Script.py) 	|
+
+
