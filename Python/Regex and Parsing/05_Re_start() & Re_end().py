@@ -2,16 +2,11 @@
 
 import re
 
-s = input()
-k = input()
-index = 0
-
-if re.search(k, s):
-    while index + len(k) < len(s):
-        temp = re.search(k, s[index:])
-        print('({0}, {1})'.format(index + temp.start(), index + temp.end() - 1))
-        index += temp.start() + 1
+s, k = input(), input()
+matches = list(re.finditer(r'(?={})'.format(k), s))
+if matches:
+    print('\n'.join(str((match.start(),
+          match.start() + len(k) - 1)) for match in matches))
 else:
     print('(-1, -1)')
-    
-    
+   
