@@ -1,9 +1,11 @@
 # Programmer : Jatin Sharma
 
-import numpy as np
+import numpy
 
-n = int(input())
-arr = np.array([input().split() for i in range(n)], float)
-        
-print(np.linalg.det(arr))
+n=int(input())
+
+a=numpy.array([input().split() for _ in range(n)],float)
+numpy.set_printoptions(legacy='1.13') #important
+
+print(numpy.linalg.det(a))
 
