@@ -190,3 +190,52 @@
 | Matrix Script                      	| [Question](https://www.hackerrank.com/challenges/matrix-script) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/Python/Regex%20and%20Parsing/17_Matrix%20Script.py) 	|
 
 
+
+### XML
+
+
+| Name                                 	|    Q-Links   	|   A-Links   	|
+|--------------------------------------	|:--------:	    |:-------:	    |
+| XML 1 - Find the Score              	| [Question](https://www.hackerrank.com/challenges/xml-1-find-the-score) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/Python/XML/XML%201%20-%20Find%20the%20Score.py) 	|
+| XML2 - Find the Maximum Depth         | [Question](https://www.hackerrank.com/challenges/xml2-find-the-maximum-depth) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/Python/XML/XML2%20-%20Find%20the%20Maximum%20Depth.py) 	|
+
+### Closures and Decorators
+
+| Name                                 	|    Q-Links   	|   A-Links   	|
+|--------------------------------------	|:--------:	    |:-------:	    |
+| Standardize Mobile Number Using Decorators | [Question](https://www.hackerrank.com/challenges/standardize-mobile-number-using-decorators) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/Python/Closures%20and%20Decorators/01_Standardize%20Mobile%20Number%20Using%20Decorators.py) 	|
+| Decorators 2 - Name Directory         | [Question](https://www.hackerrank.com/challenges/decorators-2-name-directory) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/Python/Closures%20and%20Decorators/02_Decorators%202%20-%20Name%20Directory.py) 	|
+
+
+
+
+### Numpy
+
+
+| Name                        |    Q-Links   	|   A-Links   	|
+|--------------------------   |:--------:	    |:-------:	    |
+| Arrays                      | [Question](https://www.hackerrank.com/challenges/np-arrays) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/Python/Numpy/01_Arrays.py) 	|
+| Shape and Reshape           | [Question](https://www.hackerrank.com/challenges/np-shape-reshape) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/Python/Numpy/02_Shape%20and%20Reshape.py) 	|
+| Transpose and Flatten       | [Question](https://www.hackerrank.com/challenges/np-transpose-and-flatten) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/Python/Numpy/03_Transpose%20and%20Flatten.py) 	|
+| Concatenate                 | [Question](https://www.hackerrank.com/challenges/np-concatenate) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/Python/Numpy/04_Concatenate.py) 	|
+| Zeros and Ones              | [Question](https://www.hackerrank.com/challenges/np-zeros-and-ones) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/Python/Numpy/05_Zeros%20and%20Ones.py) 	|
+| Eye and Identity            | [Question](https://www.hackerrank.com/challenges/np-eye-and-identity) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/Python/Numpy/06_Eye%20and%20Identity.py) 	|
+| Array Mathematics           | [Question](https://www.hackerrank.com/challenges/np-array-mathematics) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/Python/Numpy/07_Array%20Mathematics.py) 	|
+| Floor, Ceil and Rint        | [Question](https://www.hackerrank.com/challenges/floor-ceil-and-rint) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/Python/Numpy/08_Floor%2C%20Ceil%20and%20Rint.py) 	|
+| Sum and Prod                | [Question](https://www.hackerrank.com/challenges/np-sum-and-prod) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/Python/Numpy/09_Sum%20and%20Prod.py) 	|
+| Min and Max                 | [Question](https://www.hackerrank.com/challenges/np-min-and-max) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/Python/Numpy/10_Min%20and%20Max.py) 	|
+| Mean, Var, and Std          | [Question](https://www.hackerrank.com/challenges/np-mean-var-and-std) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/Python/Numpy/11_Mean%2C%20Var%2C%20and%20Std.py) 	|
+| Dot and Cross               | [Question](https://www.hackerrank.com/challenges/np-dot-and-cross) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/Python/Numpy/12_Dot%20and%20Cross.py) 	|
+| Inner and Outer             | [Question](https://www.hackerrank.com/challenges/np-inner-and-outer) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/Python/Numpy/13_Inner%20and%20Outer.py) 	|
+| Polynomials                 | [Question](https://www.hackerrank.com/challenges/np-polynomials) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/Python/Numpy/14_Polynomials.py) 	|
+| Linear Algebra              | [Question](https://www.hackerrank.com/challenges/np-linear-algebra) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/Python/Numpy/15_Linear%20Algebra.py) 	|
+
+
+### Debugging
+
+| Name                                 	|    Q-Links   	|   A-Links   	|
+|--------------------------------------	|:--------:	    |:-------:	    |
+| Words Score                           | [Question](https://www.hackerrank.com/challenges/words-score) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/Python/Debugging/01_Words%20Score.py) 	|
+| Default Argument                      | [Question](https://www.hackerrank.com/challenges/default-arguments) 	|  [Answer](https://github.com/j471n/Hacker-Rank/blob/master/Python/Debugging/02_Default%20Arguments.py) 	|
+
+
