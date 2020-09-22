@@ -2,7 +2,7 @@
 <p align="center">  
 	<br>
 
-  <img height=100 src="https://cdn.lixi.org.au/assets/python-logo-master-v3-TM.png"> 
+  <img height=300 src="https://i.imgur.com/shMpa2P.png"> 
     <br>
 </p>
 
