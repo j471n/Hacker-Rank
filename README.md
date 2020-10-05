@@ -615,7 +615,18 @@
 | Day-8 |  Pearson Correlation Coefficient II			| [Question](https://www.hackerrank.com/challenges/s10-mcq-7) 	|  [Explanation](https://github.com/j471n/Hacker-Rank/blob/master/10%20Days%20of%20Statistics/Day-8/C++/02_Pearson%20Correlation%20Coefficient%20II.txt) 		| [txt](https://github.com/j471n/Hacker-Rank/blob/master/10%20Days%20of%20Statistics/Day-8/Python/02_Pearson%20Correlation%20Coefficient%20II.txt)	|
 | Day-9 |  Multiple Linear Regression				| [Question](https://www.hackerrank.com/challenges/s10-multiple-linear-regression) 	|  [C++](https://github.com/j471n/Hacker-Rank/blob/master/10%20Days%20of%20Statistics/Day-9/C%2B%2B/Multiple%20Linear%20Regression.cpp) 		| [Python](https://github.com/j471n/Hacker-Rank/blob/master/10%20Days%20of%20Statistics/Day-9/Python/Multiple%20Linear%20Regression.py)	|
 
+# Data Structure - [HackerRank]
 
 
+### Arrays
+
+| Name               | Question                                                              | Solution-I                                                                                                           | Solution-I                                                                                                            |
+| ------------------ | :-------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: |
+| Arrays - DS        | [Question](https://www.hackerrank.com/challenges/arrays-ds)           | [C++](https://github.com/j471n/Hacker-Rank/blob/master/Data%20Structures/Arrays/C%2B%2B/01_Array-DS.cpp)             | [Python](https://github.com/j471n/Hacker-Rank/blob/master/Data%20Structures/Arrays/Python/01_Array-DS.py)             |
+| 2D Array - DS      | [Question](https://www.hackerrank.com/challenges/2d-array)            | [C++](https://github.com/j471n/Hacker-Rank/blob/master/Data%20Structures/Arrays/C%2B%2B/03_Dynamic%20Array.cpp)      | [Python](https://github.com/j471n/Hacker-Rank/blob/master/Data%20Structures/Arrays/Python/02_2D%20Array-DS.py)        |
+| Dynamic Array      | [Question](https://www.hackerrank.com/challenges/dynamic-array)       | [C++](https://github.com/j471n/Hacker-Rank/blob/master/Data%20Structures/Arrays/C%2B%2B/03_Dynamic%20Array.cpp)      | [Python](https://github.com/j471n/Hacker-Rank/blob/master/Data%20Structures/Arrays/Python/03_Dynamic%20Array.py)      |
+| Left Rotation      | [Question](https://www.hackerrank.com/challenges/array-left-rotation) | [C++](https://github.com/j471n/Hacker-Rank/blob/master/Data%20Structures/Arrays/C%2B%2B/04_Left%20Rotation.cpp)      | [Python](https://github.com/j471n/Hacker-Rank/blob/master/Data%20Structures/Arrays/Python/04_Left%20Rotation.py)      |
+| Sparse Arrays      | [Question](https://www.hackerrank.com/challenges/sparse-arrays)       | [C++](https://github.com/j471n/Hacker-Rank/blob/master/Data%20Structures/Arrays/C%2B%2B/05_Sparse%20Arrays.cpp)      | [Python](https://github.com/j471n/Hacker-Rank/blob/master/Data%20Structures/Arrays/Python/05_Sparse%20Arrays.py)      |
+| Array Manipulation | [Question](https://www.hackerrank.com/challenges/crush)               | [C++](https://github.com/j471n/Hacker-Rank/blob/master/Data%20Structures/Arrays/C%2B%2B/06_Array%20Manipulation.cpp) | [Python](https://github.com/j471n/Hacker-Rank/blob/master/Data%20Structures/Arrays/Python/06_Array%20Manipulation.py) |
 
 
